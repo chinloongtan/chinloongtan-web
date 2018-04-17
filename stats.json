@@ -5,8 +5,8 @@
       "component---src-pages-index-js-462abb577db3d590b0c6.js.map"
     ],
     "path---blog": [
-      "path---blog-823cb9171ae9ebd85a85.js",
-      "path---blog-823cb9171ae9ebd85a85.js.map"
+      "path---blog-3311be40abcda964fc27.js",
+      "path---blog-3311be40abcda964fc27.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -27,6 +27,10 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog-crna-expo-react-native-init": [
+      "path---blog-crna-expo-react-native-init-211356779e83bc6a76c1.js",
+      "path---blog-crna-expo-react-native-init-211356779e83bc6a76c1.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -51,9 +55,9 @@
       "component---src-pages-blog-js-049be089a05cb41419fa.js.map"
     ],
     "app": [
-      "app-c20f24848a579e27455b.js",
+      "app-1b57ba2057c4907db8cc.js",
       "build-js-styles.css",
-      "app-c20f24848a579e27455b.js.map",
+      "app-1b57ba2057c4907db8cc.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
