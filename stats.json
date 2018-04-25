@@ -5,8 +5,8 @@
       "component---src-pages-index-js-837c2b0ff2eba7f13f46.js.map"
     ],
     "path---blog": [
-      "path---blog-3311be40abcda964fc27.js",
-      "path---blog-3311be40abcda964fc27.js.map"
+      "path---blog-85d25ac78837661592a5.js",
+      "path---blog-85d25ac78837661592a5.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -23,6 +23,10 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-7499e2e27a04e631b157.js",
       "component---src-layouts-index-js-7499e2e27a04e631b157.js.map"
+    ],
+    "path---blog-processcolor": [
+      "path---blog-processcolor-dcfaa248ef7ae28cf434.js",
+      "path---blog-processcolor-dcfaa248ef7ae28cf434.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -55,9 +59,9 @@
       "component---src-pages-blog-js-03b409606daef6b42442.js.map"
     ],
     "app": [
-      "app-1b57ba2057c4907db8cc.js",
+      "app-d9f5d0cd842dd203d749.js",
       "build-js-styles.css",
-      "app-1b57ba2057c4907db8cc.js.map",
+      "app-d9f5d0cd842dd203d749.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
