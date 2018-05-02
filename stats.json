@@ -5,8 +5,8 @@
       "component---src-pages-index-js-569d2a39f20d088f4a44.js.map"
     ],
     "path---blog": [
-      "path---blog-85d25ac78837661592a5.js",
-      "path---blog-85d25ac78837661592a5.js.map"
+      "path---blog-022c0e952322c1aef2f0.js",
+      "path---blog-022c0e952322c1aef2f0.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -50,6 +50,10 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---blog-billing-for-aws-provisioned-iops": [
+      "path---blog-billing-for-aws-provisioned-iops-53437e8b9c70b0d510fb.js",
+      "path---blog-billing-for-aws-provisioned-iops-53437e8b9c70b0d510fb.js.map"
+    ],
     "path---blog-starting-a-blog": [
       "path---blog-starting-a-blog-9ab542b521a2ac2a2377.js",
       "path---blog-starting-a-blog-9ab542b521a2ac2a2377.js.map"
@@ -59,9 +63,9 @@
       "component---src-pages-blog-js-90ab91b7c56355ce3a5e.js.map"
     ],
     "app": [
-      "app-d9f5d0cd842dd203d749.js",
+      "app-c7843459930495500b5a.js",
       "build-js-styles.css",
-      "app-d9f5d0cd842dd203d749.js.map",
+      "app-c7843459930495500b5a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
