@@ -5,12 +5,16 @@
       "component---src-pages-index-js-1b07626ea5661cc01244.js.map"
     ],
     "path---blog": [
-      "path---blog-27ec29c8fbbaee308213.js",
-      "path---blog-27ec29c8fbbaee308213.js.map"
+      "path---blog-80552ab35c7c856e0e59.js",
+      "path---blog-80552ab35c7c856e0e59.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---blog-ipay-88-react-native-integration": [
+      "path---blog-ipay-88-react-native-integration-bd3742e0672d01592dfe.js",
+      "path---blog-ipay-88-react-native-integration-bd3742e0672d01592dfe.js.map"
     ],
     "path---blog-docker-dev-mode": [
       "path---blog-docker-dev-mode-3af3e9eb9b2348a545a8.js",
@@ -67,9 +71,9 @@
       "component---src-pages-blog-js-98ecf299221f11f041af.js.map"
     ],
     "app": [
-      "app-c19968b29f3af762c10a.js",
+      "app-3e2338a5ee71ee862639.js",
       "build-js-styles.css",
-      "app-c19968b29f3af762c10a.js.map",
+      "app-3e2338a5ee71ee862639.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
