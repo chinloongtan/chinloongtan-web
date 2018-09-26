@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-59e797a274ac574a46bd.js",
-      "component---src-pages-index-js-59e797a274ac574a46bd.js.map"
+      "component---src-pages-index-js-1b07626ea5661cc01244.js",
+      "component---src-pages-index-js-1b07626ea5661cc01244.js.map"
     ],
     "path---blog": [
       "path---blog-27ec29c8fbbaee308213.js",
@@ -17,12 +17,12 @@
       "path---blog-docker-dev-mode-3af3e9eb9b2348a545a8.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-d1abce67cef5aafac8a4.js",
-      "component---src-templates-blog-post-js-d1abce67cef5aafac8a4.js.map"
+      "component---src-templates-blog-post-js-d7164209a60a0ccfb6e2.js",
+      "component---src-templates-blog-post-js-d7164209a60a0ccfb6e2.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-66ee2fc0ac94a415f130.js",
-      "component---src-layouts-index-js-66ee2fc0ac94a415f130.js.map"
+      "component---src-layouts-index-js-ca4d83c05af3b68ca81f.js",
+      "component---src-layouts-index-js-ca4d83c05af3b68ca81f.js.map"
     ],
     "path---blog-processcolor": [
       "path---blog-processcolor-dcfaa248ef7ae28cf434.js",
@@ -41,9 +41,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-c3c06f64cbda4aeb033b.js",
+      "commons-af8caf0451f844b154cb.js",
       "build-js-styles.css",
-      "commons-c3c06f64cbda4aeb033b.js.map",
+      "commons-af8caf0451f844b154cb.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -63,8 +63,8 @@
       "path---blog-starting-a-blog-9ab542b521a2ac2a2377.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-9b1eed80a634a25c382d.js",
-      "component---src-pages-blog-js-9b1eed80a634a25c382d.js.map"
+      "component---src-pages-blog-js-98ecf299221f11f041af.js",
+      "component---src-pages-blog-js-98ecf299221f11f041af.js.map"
     ],
     "app": [
       "app-c19968b29f3af762c10a.js",
