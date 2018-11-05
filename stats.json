@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5b5617dc54d7b63a848e.js",
-      "component---src-pages-index-js-5b5617dc54d7b63a848e.js.map"
+      "component---src-pages-index-js-1f9474243dfc4111dae8.js",
+      "component---src-pages-index-js-1f9474243dfc4111dae8.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-privacy-policy-js": [
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-6f210dbaa1ec78a261c5.js",
@@ -57,9 +57,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-697d1fc5e994a1ffc35b.js",
+      "commons-8deb290c432423acace0.js",
       "build-js-styles.css",
-      "commons-697d1fc5e994a1ffc35b.js.map",
+      "commons-8deb290c432423acace0.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -79,8 +79,8 @@
       "path---blog-starting-a-blog-9ab542b521a2ac2a2377.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-7235529cda1e819e89ec.js",
-      "component---src-pages-blog-js-7235529cda1e819e89ec.js.map"
+      "component---src-pages-blog-js-d50c77fecb4e72e13a0e.js",
+      "component---src-pages-blog-js-d50c77fecb4e72e13a0e.js.map"
     ],
     "app": [
       "app-e2d05743ba28b1f2c9b5.js",
