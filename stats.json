@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-355de2cb449f283bea5a.js",
-      "component---src-pages-index-js-355de2cb449f283bea5a.js.map"
+      "component---src-pages-index-js-5b5617dc54d7b63a848e.js",
+      "component---src-pages-index-js-5b5617dc54d7b63a848e.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-privacy-policy-js": [
-      "component---src-pages-apps-ktmbuddy-privacy-policy-js-190240e8876a1e796119.js",
-      "component---src-pages-apps-ktmbuddy-privacy-policy-js-190240e8876a1e796119.js.map"
+      "component---src-pages-apps-ktmbuddy-privacy-policy-js-6f210dbaa1ec78a261c5.js",
+      "component---src-pages-apps-ktmbuddy-privacy-policy-js-6f210dbaa1ec78a261c5.js.map"
     ],
     "path---blog": [
       "path---blog-975422d33b1ef5de1efe.js",
@@ -29,12 +29,12 @@
       "path---blog-docker-dev-mode-3af3e9eb9b2348a545a8.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-df93cd40964b2f093534.js",
-      "component---src-templates-blog-post-js-df93cd40964b2f093534.js.map"
+      "component---src-templates-blog-post-js-7b9b343cb17578041ba7.js",
+      "component---src-templates-blog-post-js-7b9b343cb17578041ba7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-be53555f735c20e493d5.js",
-      "component---src-layouts-index-js-be53555f735c20e493d5.js.map"
+      "component---src-layouts-index-js-6ce2e1732225c2dc449b.js",
+      "component---src-layouts-index-js-6ce2e1732225c2dc449b.js.map"
     ],
     "path---blog-processcolor": [
       "path---blog-processcolor-dcfaa248ef7ae28cf434.js",
@@ -57,9 +57,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-28e25bc6ed2964e022ca.js",
+      "commons-697d1fc5e994a1ffc35b.js",
       "build-js-styles.css",
-      "commons-28e25bc6ed2964e022ca.js.map",
+      "commons-697d1fc5e994a1ffc35b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -79,8 +79,8 @@
       "path---blog-starting-a-blog-9ab542b521a2ac2a2377.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-3601dfc54e6ca7448472.js",
-      "component---src-pages-blog-js-3601dfc54e6ca7448472.js.map"
+      "component---src-pages-blog-js-7235529cda1e819e89ec.js",
+      "component---src-pages-blog-js-7235529cda1e819e89ec.js.map"
     ],
     "app": [
       "app-e2d05743ba28b1f2c9b5.js",
