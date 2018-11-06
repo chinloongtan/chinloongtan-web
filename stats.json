@@ -9,8 +9,8 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-e2633589bb21dc112eab.js.map"
     ],
     "path---blog": [
-      "path---blog-371a871758f571cfe220.js",
-      "path---blog-371a871758f571cfe220.js.map"
+      "path---blog-fdbaec424d90e9738394.js",
+      "path---blog-fdbaec424d90e9738394.js.map"
     ],
     "path---apps-ktmbuddy-privacy-policy": [
       "path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js",
@@ -83,10 +83,14 @@
       "component---src-pages-blog-js-bd551140e5cd9b1792d0.js.map"
     ],
     "app": [
-      "app-e2d05743ba28b1f2c9b5.js",
+      "app-22f65210104d4b6abac9.js",
       "build-js-styles.css",
-      "app-e2d05743ba28b1f2c9b5.js.map",
+      "app-22f65210104d4b6abac9.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---blog-woocommerce-powered-mobile-app": [
+      "path---blog-woocommerce-powered-mobile-app-fd0c30f3d6849ca08c1d.js",
+      "path---blog-woocommerce-powered-mobile-app-fd0c30f3d6849ca08c1d.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
