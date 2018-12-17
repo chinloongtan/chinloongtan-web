@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---blog-background-geolocation": [
+      "path---blog-background-geolocation-d7ad41072839539d56eb.js",
+      "path---blog-background-geolocation-d7ad41072839539d56eb.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-0b34bff35abfddff7810.js",
       "component---src-pages-index-js-0b34bff35abfddff7810.js.map"
@@ -9,8 +13,8 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-1b559a5928414d4ab663.js",
-      "path---blog-1b559a5928414d4ab663.js.map"
+      "path---blog-e7bc9f787d9e5b847494.js",
+      "path---blog-e7bc9f787d9e5b847494.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-terms-js": [
       "component---src-pages-apps-ktmbuddy-terms-js-87905a8740b8d535049e.js",
@@ -33,8 +37,8 @@
       "path---blog-docker-dev-mode-098c1c260d58f4d2c3df.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-397b4a83756e6d2a1f65.js",
-      "component---src-templates-blog-post-js-397b4a83756e6d2a1f65.js.map"
+      "component---src-templates-blog-post-js-f4d48348e97cb46315d4.js",
+      "component---src-templates-blog-post-js-f4d48348e97cb46315d4.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-667d7000d4e74d7d90c8.js",
@@ -87,13 +91,13 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-2831d8e843f01994a9b8.js",
-      "component---src-pages-blog-js-2831d8e843f01994a9b8.js.map"
+      "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js",
+      "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js.map"
     ],
     "app": [
-      "app-40ddd50180e0e18ebac4.js",
+      "app-ff2e9f32d7d3e39289ad.js",
       "build-js-styles.css",
-      "app-40ddd50180e0e18ebac4.js.map",
+      "app-ff2e9f32d7d3e39289ad.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
