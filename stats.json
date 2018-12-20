@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---blog-background-geolocation": [
-      "path---blog-background-geolocation-d7ad41072839539d56eb.js",
-      "path---blog-background-geolocation-d7ad41072839539d56eb.js.map"
+      "path---blog-background-geolocation-47b7bb96e6507f6c066e.js",
+      "path---blog-background-geolocation-47b7bb96e6507f6c066e.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-0b34bff35abfddff7810.js",
@@ -13,8 +13,8 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-e7bc9f787d9e5b847494.js",
-      "path---blog-e7bc9f787d9e5b847494.js.map"
+      "path---blog-7545a033f6f283ca0c0d.js",
+      "path---blog-7545a033f6f283ca0c0d.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-terms-js": [
       "component---src-pages-apps-ktmbuddy-terms-js-87905a8740b8d535049e.js",
@@ -78,6 +78,10 @@
       "path---blog-aws-config-vs-aws-credentials-6643cf76265c99921e42.js",
       "path---blog-aws-config-vs-aws-credentials-6643cf76265c99921e42.js.map"
     ],
+    "path---blog-gps-testing-with-gpx": [
+      "path---blog-gps-testing-with-gpx-b7abb12f3ae339432582.js",
+      "path---blog-gps-testing-with-gpx-b7abb12f3ae339432582.js.map"
+    ],
     "path---blog-billing-for-aws-provisioned-iops": [
       "path---blog-billing-for-aws-provisioned-iops-93eb7e0a231fa609f857.js",
       "path---blog-billing-for-aws-provisioned-iops-93eb7e0a231fa609f857.js.map"
@@ -95,9 +99,9 @@
       "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js.map"
     ],
     "app": [
-      "app-ff2e9f32d7d3e39289ad.js",
+      "app-426ba8e4fd0354ac7cf0.js",
       "build-js-styles.css",
-      "app-ff2e9f32d7d3e39289ad.js.map",
+      "app-426ba8e4fd0354ac7cf0.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
