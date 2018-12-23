@@ -65,9 +65,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-c3f000d132b23e57b00b.js",
+      "commons-036d1f0991e93fbcd76f.js",
       "build-js-styles.css",
-      "commons-c3f000d132b23e57b00b.js.map",
+      "commons-036d1f0991e93fbcd76f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -99,9 +99,9 @@
       "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js.map"
     ],
     "app": [
-      "app-426ba8e4fd0354ac7cf0.js",
+      "app-51f39e47d16e21270048.js",
       "build-js-styles.css",
-      "app-426ba8e4fd0354ac7cf0.js.map",
+      "app-51f39e47d16e21270048.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
@@ -111,6 +111,14 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-44cbb7b57a6e8198f90f.js",
+      "component---src-pages-about-js-44cbb7b57a6e8198f90f.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
