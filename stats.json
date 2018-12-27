@@ -5,8 +5,8 @@
       "path---blog-background-geolocation-47b7bb96e6507f6c066e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0b34bff35abfddff7810.js",
-      "component---src-pages-index-js-0b34bff35abfddff7810.js.map"
+      "component---src-pages-index-js-3597ee6188d48694e9f4.js",
+      "component---src-pages-index-js-3597ee6188d48694e9f4.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-privacy-policy-js": [
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js",
@@ -15,6 +15,10 @@
     "path---blog": [
       "path---blog-7545a033f6f283ca0c0d.js",
       "path---blog-7545a033f6f283ca0c0d.js.map"
+    ],
+    "path---learn": [
+      "path---learn-a0e39f21c11f6a62c5ab.js",
+      "path---learn-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-terms-js": [
       "component---src-pages-apps-ktmbuddy-terms-js-87905a8740b8d535049e.js",
@@ -37,16 +41,20 @@
       "path---blog-docker-dev-mode-098c1c260d58f4d2c3df.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-f4d48348e97cb46315d4.js",
-      "component---src-templates-blog-post-js-f4d48348e97cb46315d4.js.map"
+      "component---src-templates-blog-post-js-b01b17e24eaa53e4dff4.js",
+      "component---src-templates-blog-post-js-b01b17e24eaa53e4dff4.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-667d7000d4e74d7d90c8.js",
-      "component---src-layouts-index-js-667d7000d4e74d7d90c8.js.map"
+      "component---src-layouts-index-js-bf5be269c5436cc17de6.js",
+      "component---src-layouts-index-js-bf5be269c5436cc17de6.js.map"
     ],
     "path---blog-processcolor": [
       "path---blog-processcolor-0b127d181b3308b566b0.js",
       "path---blog-processcolor-0b127d181b3308b566b0.js.map"
+    ],
+    "component---src-pages-learn-js": [
+      "component---src-pages-learn-js-185118647bf28504c5d1.js",
+      "component---src-pages-learn-js-185118647bf28504c5d1.js.map"
     ],
     "path---blog-offline-app-with-realm-db": [
       "path---blog-offline-app-with-realm-db-556d10028f77e2b198f7.js",
@@ -65,9 +73,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-61e2bc560c28e641eade.js",
+      "commons-193a157c3b0e8ce9c20b.js",
       "build-js-styles.css",
-      "commons-61e2bc560c28e641eade.js.map",
+      "commons-193a157c3b0e8ce9c20b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -95,13 +103,13 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js",
-      "component---src-pages-blog-js-5a2d3df453b4c4d9bfd7.js.map"
+      "component---src-pages-blog-js-7de433b221b57e428671.js",
+      "component---src-pages-blog-js-7de433b221b57e428671.js.map"
     ],
     "app": [
-      "app-51f39e47d16e21270048.js",
+      "app-3ed5ef412deb3ead5395.js",
       "build-js-styles.css",
-      "app-51f39e47d16e21270048.js.map",
+      "app-3ed5ef412deb3ead5395.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
@@ -113,8 +121,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-44cbb7b57a6e8198f90f.js",
-      "component---src-pages-about-js-44cbb7b57a6e8198f90f.js.map"
+      "component---src-pages-about-js-c7cc0764b4633c2f7d1d.js",
+      "component---src-pages-about-js-c7cc0764b4633c2f7d1d.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
