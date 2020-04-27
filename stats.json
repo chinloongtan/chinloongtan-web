@@ -13,8 +13,12 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-7545a033f6f283ca0c0d.js",
-      "path---blog-7545a033f6f283ca0c0d.js.map"
+      "path---blog-5a1794cb4b20938403fd.js",
+      "path---blog-5a1794cb4b20938403fd.js.map"
+    ],
+    "component---src-templates-blog-list-template-js": [
+      "component---src-templates-blog-list-template-js-005df679935a76f87568.js",
+      "component---src-templates-blog-list-template-js-005df679935a76f87568.js.map"
     ],
     "path---learn": [
       "path---learn-a0e39f21c11f6a62c5ab.js",
@@ -64,6 +68,10 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---blog-upgrading-react-native-project": [
+      "path---blog-upgrading-react-native-project-f53351a0785a7869d563.js",
+      "path---blog-upgrading-react-native-project-f53351a0785a7869d563.js.map"
+    ],
     "path---blog-crna-expo-react-native-init": [
       "path---blog-crna-expo-react-native-init-3bcf3c6e5bc701482a99.js",
       "path---blog-crna-expo-react-native-init-3bcf3c6e5bc701482a99.js.map"
@@ -73,10 +81,14 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-2120342f4c2abf923e22.js",
+      "commons-5beb25c90f720fb41e16.js",
       "build-js-styles.css",
-      "commons-2120342f4c2abf923e22.js.map",
+      "commons-5beb25c90f720fb41e16.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---blog-1": [
+      "path---blog-1-5a1794cb4b20938403fd.js",
+      "path---blog-1-5a1794cb4b20938403fd.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -102,14 +114,14 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js",
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
-    "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-7de433b221b57e428671.js",
-      "component---src-pages-blog-js-7de433b221b57e428671.js.map"
+    "path---blog-2": [
+      "path---blog-2-2b4732786b912139f553.js",
+      "path---blog-2-2b4732786b912139f553.js.map"
     ],
     "app": [
-      "app-3ed5ef412deb3ead5395.js",
+      "app-0641589a5111542fa770.js",
       "build-js-styles.css",
-      "app-3ed5ef412deb3ead5395.js.map",
+      "app-0641589a5111542fa770.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
