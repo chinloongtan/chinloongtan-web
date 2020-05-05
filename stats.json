@@ -1,24 +1,40 @@
 {
   "assetsByChunkName": {
+    "path---tags-tool": [
+      "path---tags-tool-2feb573f73cdeafa9009.js",
+      "path---tags-tool-2feb573f73cdeafa9009.js.map"
+    ],
+    "path---tags-realm-db": [
+      "path---tags-realm-db-d58a07268effe9b28700.js",
+      "path---tags-realm-db-d58a07268effe9b28700.js.map"
+    ],
     "path---blog-background-geolocation": [
       "path---blog-background-geolocation-47b7bb96e6507f6c066e.js",
       "path---blog-background-geolocation-47b7bb96e6507f6c066e.js.map"
     ],
+    "path---tags-aws": [
+      "path---tags-aws-28ee3aff17164ad11482.js",
+      "path---tags-aws-28ee3aff17164ad11482.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-3597ee6188d48694e9f4.js",
-      "component---src-pages-index-js-3597ee6188d48694e9f4.js.map"
+      "component---src-pages-index-js-ec3c12b7e7a5fb7d5e23.js",
+      "component---src-pages-index-js-ec3c12b7e7a5fb7d5e23.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-privacy-policy-js": [
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js",
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-b81b0096c2a58636d6f4.js",
-      "path---blog-b81b0096c2a58636d6f4.js.map"
+      "path---blog-558a8ede18e6109787a9.js",
+      "path---blog-558a8ede18e6109787a9.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-828572a36d07ff07b510.js",
+      "component---src-templates-tags-js-828572a36d07ff07b510.js.map"
     ],
     "component---src-templates-blog-list-template-js": [
-      "component---src-templates-blog-list-template-js-005df679935a76f87568.js",
-      "component---src-templates-blog-list-template-js-005df679935a76f87568.js.map"
+      "component---src-templates-blog-list-template-js-1048b8a0acc6052cb61e.js",
+      "component---src-templates-blog-list-template-js-1048b8a0acc6052cb61e.js.map"
     ],
     "path---learn": [
       "path---learn-a0e39f21c11f6a62c5ab.js",
@@ -31,6 +47,10 @@
     "path---apps-ktmbuddy-privacy-policy": [
       "path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js",
       "path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags": [
+      "path---tags-7f8c69bd5f9a9ef3d370.js",
+      "path---tags-7f8c69bd5f9a9ef3d370.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -45,20 +65,20 @@
       "path---blog-docker-dev-mode-098c1c260d58f4d2c3df.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-b01b17e24eaa53e4dff4.js",
-      "component---src-templates-blog-post-js-b01b17e24eaa53e4dff4.js.map"
+      "component---src-templates-blog-post-js-af687d034ae6db67ad88.js",
+      "component---src-templates-blog-post-js-af687d034ae6db67ad88.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bf5be269c5436cc17de6.js",
-      "component---src-layouts-index-js-bf5be269c5436cc17de6.js.map"
+      "component---src-layouts-index-js-667d7000d4e74d7d90c8.js",
+      "component---src-layouts-index-js-667d7000d4e74d7d90c8.js.map"
     ],
     "path---blog-processcolor": [
       "path---blog-processcolor-0b127d181b3308b566b0.js",
       "path---blog-processcolor-0b127d181b3308b566b0.js.map"
     ],
     "component---src-pages-learn-js": [
-      "component---src-pages-learn-js-185118647bf28504c5d1.js",
-      "component---src-pages-learn-js-185118647bf28504c5d1.js.map"
+      "component---src-pages-learn-js-f7e9d6afdae2f3d74450.js",
+      "component---src-pages-learn-js-f7e9d6afdae2f3d74450.js.map"
     ],
     "path---blog-offline-app-with-realm-db": [
       "path---blog-offline-app-with-realm-db-556d10028f77e2b198f7.js",
@@ -80,15 +100,31 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
+    "path---tags-react-native": [
+      "path---tags-react-native-68a45b5e5564def1cafe.js",
+      "path---tags-react-native-68a45b5e5564def1cafe.js.map"
+    ],
+    "path---tags-e-commerce": [
+      "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js",
+      "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js.map"
+    ],
     "commons": [
-      "commons-5beb25c90f720fb41e16.js",
+      "commons-d6bb8e16b5d8814a19b1.js",
       "build-js-styles.css",
-      "commons-5beb25c90f720fb41e16.js.map",
+      "commons-d6bb8e16b5d8814a19b1.js.map",
       "build-js-styles.css.map"
     ],
+    "path---tags-offline-first": [
+      "path---tags-offline-first-86e0f4a52c174b37af9b.js",
+      "path---tags-offline-first-86e0f4a52c174b37af9b.js.map"
+    ],
     "path---blog-1": [
-      "path---blog-1-b81b0096c2a58636d6f4.js",
-      "path---blog-1-b81b0096c2a58636d6f4.js.map"
+      "path---blog-1-558a8ede18e6109787a9.js",
+      "path---blog-1-558a8ede18e6109787a9.js.map"
+    ],
+    "path---tags-payment": [
+      "path---tags-payment-b03f85d36e5f0c8806ba.js",
+      "path---tags-payment-b03f85d36e5f0c8806ba.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -110,14 +146,22 @@
       "path---apps-ktmbuddy-terms-a0e39f21c11f6a62c5ab.js",
       "path---apps-ktmbuddy-terms-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-tags-js": [
+      "component---src-pages-tags-js-6ccd7bc75def21b2b5ae.js",
+      "component---src-pages-tags-js-6ccd7bc75def21b2b5ae.js.map"
+    ],
+    "path---tags-docker": [
+      "path---tags-docker-0714b2f66a44c6a48814.js",
+      "path---tags-docker-0714b2f66a44c6a48814.js.map"
+    ],
     "path---blog-starting-a-blog": [
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js",
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
     "app": [
-      "app-62d06c41f32c1195999d.js",
+      "app-fb52208c097cc7be5175.js",
       "build-js-styles.css",
-      "app-62d06c41f32c1195999d.js.map",
+      "app-fb52208c097cc7be5175.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
@@ -129,12 +173,16 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-c7cc0764b4633c2f7d1d.js",
-      "component---src-pages-about-js-c7cc0764b4633c2f7d1d.js.map"
+      "component---src-pages-about-js-07d13879537d742cf3e9.js",
+      "component---src-pages-about-js-07d13879537d742cf3e9.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-gps": [
+      "path---tags-gps-b99d3a1d94f37ee66d54.js",
+      "path---tags-gps-b99d3a1d94f37ee66d54.js.map"
     ]
   }
 }
