@@ -25,16 +25,16 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-36f114e74ca764dd9b88.js",
-      "path---blog-36f114e74ca764dd9b88.js.map"
+      "path---blog-10e642ad4502e08153ff.js",
+      "path---blog-10e642ad4502e08153ff.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-828572a36d07ff07b510.js",
       "component---src-templates-tags-js-828572a36d07ff07b510.js.map"
     ],
     "component---src-templates-blog-list-template-js": [
-      "component---src-templates-blog-list-template-js-1048b8a0acc6052cb61e.js",
-      "component---src-templates-blog-list-template-js-1048b8a0acc6052cb61e.js.map"
+      "component---src-templates-blog-list-template-js-560223c542c26e8da4b5.js",
+      "component---src-templates-blog-list-template-js-560223c542c26e8da4b5.js.map"
     ],
     "path---learn": [
       "path---learn-a0e39f21c11f6a62c5ab.js",
@@ -123,8 +123,8 @@
       "path---tags-offline-first-86e0f4a52c174b37af9b.js.map"
     ],
     "path---blog-1": [
-      "path---blog-1-36f114e74ca764dd9b88.js",
-      "path---blog-1-36f114e74ca764dd9b88.js.map"
+      "path---blog-1-10e642ad4502e08153ff.js",
+      "path---blog-1-10e642ad4502e08153ff.js.map"
     ],
     "path---tags-payment": [
       "path---tags-payment-b03f85d36e5f0c8806ba.js",
@@ -162,10 +162,14 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js",
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
+    "path---blog-2": [
+      "path---blog-2-310b19022cb5444e84af.js",
+      "path---blog-2-310b19022cb5444e84af.js.map"
+    ],
     "app": [
-      "app-6564ba87cfabcafc9c54.js",
+      "app-5280fba89ea50ef6e767.js",
       "build-js-styles.css",
-      "app-6564ba87cfabcafc9c54.js.map",
+      "app-5280fba89ea50ef6e767.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
