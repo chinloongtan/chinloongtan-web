@@ -25,8 +25,8 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-10e642ad4502e08153ff.js",
-      "path---blog-10e642ad4502e08153ff.js.map"
+      "path---blog-575166fa0033529c0f9c.js",
+      "path---blog-575166fa0033529c0f9c.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-828572a36d07ff07b510.js",
@@ -49,8 +49,12 @@
       "path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags": [
-      "path---tags-5846c9623b53085d1e4b.js",
-      "path---tags-5846c9623b53085d1e4b.js.map"
+      "path---tags-51668ee41ecc17968a7d.js",
+      "path---tags-51668ee41ecc17968a7d.js.map"
+    ],
+    "path---blog-android-accessing-cached-image-dir": [
+      "path---blog-android-accessing-cached-image-dir-a89e4872ba46e1b4b09b.js",
+      "path---blog-android-accessing-cached-image-dir-a89e4872ba46e1b4b09b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -73,8 +77,8 @@
       "component---src-layouts-index-js-667d7000d4e74d7d90c8.js.map"
     ],
     "path---blog-reduce-your-react-native-android-app-size": [
-      "path---blog-reduce-your-react-native-android-app-size-a8f9e5b869eda11141ce.js",
-      "path---blog-reduce-your-react-native-android-app-size-a8f9e5b869eda11141ce.js.map"
+      "path---blog-reduce-your-react-native-android-app-size-3f54a9334286e6f6bfb2.js",
+      "path---blog-reduce-your-react-native-android-app-size-3f54a9334286e6f6bfb2.js.map"
     ],
     "path---blog-processcolor": [
       "path---blog-processcolor-ecb1c996dd645b6b65fb.js",
@@ -105,17 +109,17 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "path---tags-react-native": [
-      "path---tags-react-native-9406f5cbcfd45cb9bb16.js",
-      "path---tags-react-native-9406f5cbcfd45cb9bb16.js.map"
+      "path---tags-react-native-24bad0c3e6532549c83a.js",
+      "path---tags-react-native-24bad0c3e6532549c83a.js.map"
     ],
     "path---tags-e-commerce": [
       "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js",
       "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js.map"
     ],
     "commons": [
-      "commons-d6bb8e16b5d8814a19b1.js",
+      "commons-f8b1bd5b3c18c03b3293.js",
       "build-js-styles.css",
-      "commons-d6bb8e16b5d8814a19b1.js.map",
+      "commons-f8b1bd5b3c18c03b3293.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-offline-first": [
@@ -123,8 +127,8 @@
       "path---tags-offline-first-86e0f4a52c174b37af9b.js.map"
     ],
     "path---blog-1": [
-      "path---blog-1-10e642ad4502e08153ff.js",
-      "path---blog-1-10e642ad4502e08153ff.js.map"
+      "path---blog-1-575166fa0033529c0f9c.js",
+      "path---blog-1-575166fa0033529c0f9c.js.map"
     ],
     "path---tags-payment": [
       "path---tags-payment-b03f85d36e5f0c8806ba.js",
@@ -163,13 +167,13 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
     "path---blog-2": [
-      "path---blog-2-310b19022cb5444e84af.js",
-      "path---blog-2-310b19022cb5444e84af.js.map"
+      "path---blog-2-95bc4c10aa384c96f52e.js",
+      "path---blog-2-95bc4c10aa384c96f52e.js.map"
     ],
     "app": [
-      "app-5280fba89ea50ef6e767.js",
+      "app-d13559229ff54d223f36.js",
       "build-js-styles.css",
-      "app-5280fba89ea50ef6e767.js.map",
+      "app-d13559229ff54d223f36.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
@@ -183,6 +187,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-07d13879537d742cf3e9.js",
       "component---src-pages-about-js-07d13879537d742cf3e9.js.map"
+    ],
+    "path---tags-android": [
+      "path---tags-android-dbbfcbafe222a89b932b.js",
+      "path---tags-android-dbbfcbafe222a89b932b.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
