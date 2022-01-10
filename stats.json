@@ -17,8 +17,8 @@
       "path---tags-aws-28ee3aff17164ad11482.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1dff52243473752dd967.js",
-      "component---src-pages-index-js-1dff52243473752dd967.js.map"
+      "component---src-pages-index-js-6340f3be601378b97153.js",
+      "component---src-pages-index-js-6340f3be601378b97153.js.map"
     ],
     "component---src-pages-apps-ktmbuddy-privacy-policy-js": [
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js",
@@ -121,9 +121,9 @@
       "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js.map"
     ],
     "commons": [
-      "commons-f8b1bd5b3c18c03b3293.js",
+      "commons-dec30bbbb64a7548fee8.js",
       "build-js-styles.css",
-      "commons-f8b1bd5b3c18c03b3293.js.map",
+      "commons-dec30bbbb64a7548fee8.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-offline-first": [
