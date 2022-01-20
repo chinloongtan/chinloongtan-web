@@ -25,8 +25,8 @@
       "component---src-pages-apps-ktmbuddy-privacy-policy-js-0b4404148a20b2468708.js.map"
     ],
     "path---blog": [
-      "path---blog-822e742678648d1f6e9b.js",
-      "path---blog-822e742678648d1f6e9b.js.map"
+      "path---blog-8ae36ccd014221d2ee7f.js",
+      "path---blog-8ae36ccd014221d2ee7f.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-828572a36d07ff07b510.js",
@@ -49,8 +49,8 @@
       "path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags": [
-      "path---tags-f07897e2ed9b23800a6b.js",
-      "path---tags-f07897e2ed9b23800a6b.js.map"
+      "path---tags-caf87b8523bd35769996.js",
+      "path---tags-caf87b8523bd35769996.js.map"
     ],
     "path---blog-android-accessing-cached-image-dir": [
       "path---blog-android-accessing-cached-image-dir-a89e4872ba46e1b4b09b.js",
@@ -125,8 +125,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "path---tags-react-native": [
-      "path---tags-react-native-dab3f5e9f23dde5116bd.js",
-      "path---tags-react-native-dab3f5e9f23dde5116bd.js.map"
+      "path---tags-react-native-9c691b227fcc141b4aab.js",
+      "path---tags-react-native-9c691b227fcc141b4aab.js.map"
     ],
     "path---tags-e-commerce": [
       "path---tags-e-commerce-2bdfebbac45c4e4b50e4.js",
@@ -138,13 +138,17 @@
       "commons-fd93d994ec263c720420.js.map",
       "build-js-styles.css.map"
     ],
+    "path---tags-ios": [
+      "path---tags-ios-9ee9fdfd9e48d02f471a.js",
+      "path---tags-ios-9ee9fdfd9e48d02f471a.js.map"
+    ],
     "path---tags-offline-first": [
       "path---tags-offline-first-86e0f4a52c174b37af9b.js",
       "path---tags-offline-first-86e0f4a52c174b37af9b.js.map"
     ],
     "path---blog-1": [
-      "path---blog-1-822e742678648d1f6e9b.js",
-      "path---blog-1-822e742678648d1f6e9b.js.map"
+      "path---blog-1-8ae36ccd014221d2ee7f.js",
+      "path---blog-1-8ae36ccd014221d2ee7f.js.map"
     ],
     "path---tags-payment": [
       "path---tags-payment-b03f85d36e5f0c8806ba.js",
@@ -183,13 +187,17 @@
       "path---blog-starting-a-blog-f5ce54d6fad925440ac9.js.map"
     ],
     "path---blog-2": [
-      "path---blog-2-2ff0ad1add89652fdf4c.js",
-      "path---blog-2-2ff0ad1add89652fdf4c.js.map"
+      "path---blog-2-c9c1f3f6d5e0b32150f8.js",
+      "path---blog-2-c9c1f3f6d5e0b32150f8.js.map"
+    ],
+    "path---blog-ios-shared-userdefaults-for-app-extensions-with-rctbridgemodule": [
+      "path---blog-ios-shared-userdefaults-for-app-extensions-with-rctbridgemodule-92b5e7c95b38eb1b52d4.js",
+      "path---blog-ios-shared-userdefaults-for-app-extensions-with-rctbridgemodule-92b5e7c95b38eb1b52d4.js.map"
     ],
     "app": [
-      "app-434283abfd59dbaa363b.js",
+      "app-2b86bc8315868dd8d18f.js",
       "build-js-styles.css",
-      "app-434283abfd59dbaa363b.js.map",
+      "app-2b86bc8315868dd8d18f.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-woocommerce-powered-mobile-app": [
