@@ -1,2 +1,2 @@
-webpackJsonp([55285013851292],{490:function(t,n){t.exports={pathContext:{}}}});
+webpackJsonp([55285013851292],{492:function(t,n){t.exports={pathContext:{}}}});
 //# sourceMappingURL=path---apps-ktmbuddy-privacy-policy-a0e39f21c11f6a62c5ab.js.map

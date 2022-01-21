@@ -1,0 +1,2 @@
+webpackJsonp([51720743109199],{530:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Users/chinloong/makespace/chinloongtan-web/src/pages/2022/01/21-remove-unused-and-reorder-imports/index.md absPath of file >>> MarkdownRemark",timeToRead:2,frontmatter:{title:"Remove unused and reorder imports",date:"January 21, 2022",path:"/blog/remove-unused-and-reorder-imports",excerpt:"With ESLint and VS Code",tags:["react-native","typescript"]}}}]}},pathContext:{tag:"typescript"}}}});
+//# sourceMappingURL=path---tags-typescript-0b2eeea9cdcb54e8759f.js.map
