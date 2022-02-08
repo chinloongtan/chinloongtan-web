@@ -1,2 +1,0 @@
-webpackJsonp([0x95744131eb8d],{504:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Users/chinloong/makespace/chinloongtan-web/src/pages/2020/04/27-upgrade-rn/index.md absPath of file >>> MarkdownRemark",timeToRead:13,frontmatter:{title:"Upgrading a 16 months old react-native project",date:"April 27, 2020",path:"/blog/upgrading-react-native-project",excerpt:"From 0.59.10 to 0.62.2",tags:["react-native"]}}}]}},pathContext:{tag:"react-native"}}}});
-//# sourceMappingURL=path---tags-react-native-68a45b5e5564def1cafe.js.map
