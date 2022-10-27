@@ -1,0 +1,2 @@
+webpackJsonp([0x72ef45f70a9f],{529:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Users/chinloong/makespace/chinloongtan-web/src/pages/2022/10/27-rasa-chat-bot/index.md absPath of file >>> MarkdownRemark",timeToRead:1,frontmatter:{title:"First try with RASA chatbot",date:"October 27, 2022",path:"/blog/first-try-rasa-chat-bot",excerpt:"Conversation automation",tags:["backend"]}}}]}},pathContext:{tag:"backend"}}}});
+//# sourceMappingURL=path---tags-backend-05146a128eecae8d7eb8.js.map
