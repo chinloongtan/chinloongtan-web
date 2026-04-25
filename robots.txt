@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chinloongtan.com/sitemap.xml
